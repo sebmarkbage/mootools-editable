@@ -1,0 +1,65 @@
+{
+	"Editable": {
+
+		"Editable": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.Commands": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.Formatting": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.DefaultText": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.Toolbox": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.ContextToolbox": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.CleanUp": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.Tables": {
+			"deps": [],
+			"desc": ""
+		},
+
+		"Editable.Placeholders": {
+			"deps": [],
+			"desc": ""
+		}
+
+	},
+
+	"Native": {
+
+		"Range.Edit": {
+			"deps": ["Range"],
+			"desc": ""
+		},
+
+		"Range.XML": {
+			"deps": ["Range"],
+			"desc": ""
+		}
+
+	}
+
+}
